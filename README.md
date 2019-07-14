@@ -1,9 +1,12 @@
 # Rust embeeded workshop
 
-![](rust-embeeded.jpg)
+<img src="https://raw.githubusercontent.com/adria0/workshop-rustembeeded/master/rust-embedded.png" width="100" height="100">
  
 This is the result of a nice rust-embeeded workshop organized by @dhole in Barcelona.
-The documentation is in https://github.com/Dhole/rust-bluepill-doc
+
+Documentation is in https://github.com/Dhole/rust-bluepill-doc
+
+See the result in https://twitter.com/adria0/status/1150444507940511744
 
 Connections for display
 

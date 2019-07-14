@@ -1,6 +1,6 @@
-# Rust embeeded workshop
-
 <img src="https://raw.githubusercontent.com/adria0/workshop-rustembeeded/master/rust-embedded.png" width="100" height="100">
+
+# Rust embeeded workshop
  
 This is the result of a nice rust-embeeded workshop organized by @dhole in Barcelona.
 
